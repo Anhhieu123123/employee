@@ -1,0 +1,8 @@
+CREATE DATABASE employee_db
+INSERT INTO employees (name, age, salary)
+VALUES 
+('Nguyen Van A', 25, 1200.50),
+('Tran Thi B', 30, 1500.00),
+('Le Van C', 45, 2500.75),
+('Pham Thi D', 60, 3000.00),
+('Hoang Van E', 35, 1800.25);

@@ -1,0 +1,59 @@
+{
+	"info": {
+		"_postman_id": "0479fe2a-991b-4f2f-8506-c2038e13f4b4",
+		"name": "employee",
+		"schema": "https://schema.getpostman.com/json/collection/v2.0.0/collection.json",
+		"_exporter_id": "37534309",
+		"_collection_link": "https://hieu00.postman.co/workspace/hieu-Workspace~6c9c2b55-7aec-47da-a529-88185bd33e1d/collection/37534309-0479fe2a-991b-4f2f-8506-c2038e13f4b4?action=share&source=collection_link&creator=37534309"
+	},
+	"item": [
+		{
+			"name": "create",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "get_list",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "get_detail",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "update",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "delete",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "search",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		}
+	]
+}
