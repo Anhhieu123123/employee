@@ -1,4 +1,4 @@
-CREATE DATABASE employee_db
+CREATE DATABASE employee_db;
 INSERT INTO employees (name, age, salary)
 VALUES 
 ('Nguyen Van A', 25, 1200.50),
